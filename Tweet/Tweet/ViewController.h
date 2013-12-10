@@ -1,0 +1,15 @@
+//
+//  ViewController.h
+//  Tweet
+//
+//  Created by Takayuki Hitotsugi on 2013/12/10.
+//  Copyright (c) 2013年 Takayuki Hitotsugi. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import <Social/Social.h>
+
+@interface ViewController : UIViewController
+- (IBAction)tweet;
+
+@end
