@@ -15,7 +15,7 @@
                     <view key="view" contentMode="scaleToFill" id="kHb-oh-Evl">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <color key="backgroundColor" red="1" green="0.0" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
                     <navigationItem key="navigationItem" id="Jge-97-Z7Y"/>
                 </viewController>
@@ -74,7 +74,7 @@
                                 </items>
                             </tabBar>
                         </subviews>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <color key="backgroundColor" red="0.40000000600000002" green="1" blue="0.40000000600000002" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
                     <connections>
                         <outlet property="label" destination="ceE-ge-DwM" id="Hnx-XB-ihl"/>
@@ -83,40 +83,6 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-326" y="11"/>
-        </scene>
-        <!--View Controller-->
-        <scene sceneID="Uio-rs-9RD">
-            <objects>
-                <viewController id="6mX-rD-elX" sceneMemberID="viewController">
-                    <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="Urd-cx-NMu"/>
-                        <viewControllerLayoutGuide type="bottom" id="L1j-bj-oup"/>
-                    </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="5ez-iO-yW2">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
-                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
-                    </view>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="ud4-TL-nY0" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-        </scene>
-        <!--View Controller-->
-        <scene sceneID="c9P-wo-Blh">
-            <objects>
-                <viewController id="FA7-5N-vi1" sceneMemberID="viewController">
-                    <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="M3M-uT-0q8"/>
-                        <viewControllerLayoutGuide type="bottom" id="5It-ZM-bpS"/>
-                    </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="RMG-QF-UKJ">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
-                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
-                    </view>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="4U3-ay-hZU" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
         </scene>
     </scenes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
